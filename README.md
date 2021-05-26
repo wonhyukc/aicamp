@@ -9,11 +9,10 @@
 
    손문탁 (Ph.D. JIT President)
    
+      
+   조대연 (Handong Global Univ., Professor, AI theory & Coding)
    
-   
-   조대연 (Professor, AI theory & Coding)
-   
-   최혁 (JIT, engineering), 
+   최혁 (JIT, Engineer, Lecturer) 
    
    서용운 (Professor, Coordinator)
    
