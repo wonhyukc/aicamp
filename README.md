@@ -3,7 +3,7 @@
 
 # 주최
 
-Joy Institute of Technology, Gyeongju City, Korea
+# Joy Institute of Technology, Gyeongju City, Korea
 
 함께하는 사람들
 
