@@ -12,9 +12,9 @@
       
    조대연 (Handong Global Univ., Professor, AI theory & Coding)
    
-   최혁 (JIT, Engineer ) 
+   최혁 (JIT, Engineer, hardware setup ) 
    
-   서용운 (Pohang Univ., Professor, Coordinator)
+   서용운 (Pohang Univ., Professor, Coordination)
    
    박영자 (JIT, Lecturer, Coding)
    
