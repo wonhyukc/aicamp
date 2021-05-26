@@ -70,4 +70,6 @@
         train폴더에 90장의 주석화일
         val 폴더 밑에 10장의 주석화일을 넣어라
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/ai_chicken_coop_photo_sideview.jpg)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_coop_sideview.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png
