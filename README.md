@@ -13,15 +13,22 @@ Joy Institute of Technology, Gyeongju City, Korea
 # 캠프 내용 
 
 시간: 1:30분씩 이틀간
+
 대상: 고등학생
+
 내용: 닭사진에 주석달기->신경망훈련시키기->닭의 동영상을 신경망에 넣어 닭을 검출
 
 # 캠프 일정
 1일차:
+
 닭사진: 100장, 90장은 train, 10장은 평가용
+
 주석달기: makesense.ai 이용
+
 2일차:
+
 신경망훈련: colab.research.google.com 이용
+
 검출시험용 동영상으로 신경망 평가: mychicken.mp4  
 
 
