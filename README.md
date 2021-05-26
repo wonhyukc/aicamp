@@ -72,4 +72,4 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_coop_sideview.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png
+![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
