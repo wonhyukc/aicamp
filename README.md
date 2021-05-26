@@ -9,12 +9,14 @@
 
    손문탁 (Ph.D. JIT President)
    
-   최혁 (JIT coordinator), 
+   최혁 (JIT, engineering), 
    
-   조대연(Professor, AI & Coding)
+   조대연(Professor, AI theory & Coding)
    
-  
-
+   서용운(Professor, Coordinator)
+   
+   박영자(Lecturer, Coding)
+   
 
 # 취지
    인공지능기술로  닭의 행동을 관찰하는 방법을 청소년들에게 가르치자!
