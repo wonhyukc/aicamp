@@ -5,7 +5,7 @@
 
 Joy Institute of Technology, Gyeongju City, Korea
 
-함꼐하는 사람들
+함께하는 사람들
 
    손문탁 (Ph.D. JIT President)
    
