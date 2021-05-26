@@ -69,3 +69,5 @@
       labels 폴더 아래 train과 val폴더를 만들라
         train폴더에 90장의 주석화일
         val 폴더 밑에 10장의 주석화일을 넣어라
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/ai_chicken_coop_photo_sideview.jpg)
