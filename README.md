@@ -5,18 +5,7 @@
 
 # Joy Institute of Technology
 
-함께하는 사람들
-  
-   조대연 (Handong Global Univ., Professor, AI theory & Coding)
-   
-   최혁 (JIT, Engineer, Hardware setup ) 
-   
-   서용운 (Pohang Univ., Professor, Coordination)
-   
-   박영자 (JIT, Lecturer, Coding)
-   
-   손문탁 (Ph.D. JIT President)
-         
+
    
 
 # 취지
