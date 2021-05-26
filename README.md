@@ -1,7 +1,7 @@
 # aicamp
 
 2021년 인공지능 닭장 캠프
-
+ 주최: Joy Institute of Technology, Gyeongju City, Korea
 시간: 1:30분씩 이틀간
 대상: 고등학생
 내용: 닭사진에 주석달기->신경망훈련시키기->닭의 동영상을 신경망에 넣어 닭을 검출
