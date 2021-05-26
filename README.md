@@ -13,7 +13,7 @@ Joy Institute of Technology, Gyeongju City, Korea
    
    조대연(Professor, AI & Coding)
    
-   장수영(Professor, master planner)
+  
 
 
 # 취지
