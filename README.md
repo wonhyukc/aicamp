@@ -1,15 +1,28 @@
 # 2021년 인공지능 닭장 캠프
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/ai_chicken_coop_photo_night.jpg)
 
-# 주최: Joy Institute of Technology, Gyeongju City, Korea
+# 주최
+
+Joy Institute of Technology, Gyeongju City, Korea
+
+
+# 취지
+   인공지능기술로  닭의 행동을 관찰하는 방법을 청소년들에게 가르치자!
+   
+ 
+# 캠프 내용 
+
 시간: 1:30분씩 이틀간
 대상: 고등학생
 내용: 닭사진에 주석달기->신경망훈련시키기->닭의 동영상을 신경망에 넣어 닭을 검출
 
+# 캠프 일정
+1일차:
 닭사진: 100장, 90장은 train, 10장은 평가용
 주석달기: makesense.ai 이용
+2일차:
 신경망훈련: colab.research.google.com 이용
-검출시험용 동영상: mychicken.mp4  
+검출시험용 동영상으로 신경망 평가: mychicken.mp4  
 
 
 # 주석달기 작업
