@@ -5,6 +5,16 @@
 
 Joy Institute of Technology, Gyeongju City, Korea
 
+함꼐하는 사람들
+
+   손문탁 (Ph.D. JIT President)
+   
+   최혁 (JIT coordinator), 
+   
+   조대연(Professor, AI & Coding)
+   
+   장수영(Professor, master planner)
+
 
 # 취지
    인공지능기술로  닭의 행동을 관찰하는 방법을 청소년들에게 가르치자!
