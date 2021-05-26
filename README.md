@@ -9,13 +9,15 @@
 
    손문탁 (Ph.D. JIT President)
    
+   
+   
+   조대연 (Professor, AI theory & Coding)
+   
    최혁 (JIT, engineering), 
    
-   조대연(Professor, AI theory & Coding)
+   서용운 (Professor, Coordinator)
    
-   서용운(Professor, Coordinator)
-   
-   박영자(Lecturer, Coding)
+   박영자 (Lecturer, Coding)
    
 
 # 취지
