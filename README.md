@@ -1,4 +1,4 @@
-# 2021년 인공지능 닭장 캠프
+# 인공지능 닭장 캠프
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/ai_chicken_coop_photo_night.jpg)
 
 # 주최
