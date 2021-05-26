@@ -1,6 +1,4 @@
-# COCO 2017 dataset http://cocodataset.org - first 128 training images
-# Train command: python train.py --data coco128.yaml
-# Default dataset location is next to YOLOv5:
+
 #   2021 제철공고 AI캠프 - 인공지능 닭장 만들기
 #     주최 : Joy Institute of Technology
 #
