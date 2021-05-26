@@ -14,9 +14,9 @@
    
    최혁 (JIT, Engineer, Lecturer) 
    
-   서용운 (Professor, Coordinator)
+   서용운 (Pohang Univ., Professor, Coordinator)
    
-   박영자 (Lecturer, Coding)
+   박영자 (JIT, Lecturer, Coding)
    
 
 # 취지
