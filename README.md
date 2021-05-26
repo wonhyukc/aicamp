@@ -1,6 +1,6 @@
 # 2021년 인공지능 닭장 캠프
 
-
+https://github.com/joyinstech/aicamp/blob/main/ai_chicken_coop_photo_night.jpg
 # 주최: Joy Institute of Technology, Gyeongju City, Korea
 시간: 1:30분씩 이틀간
 대상: 고등학생
