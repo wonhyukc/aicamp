@@ -146,7 +146,51 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/change_name.png)
 
-#드디어 신경망을 훈련시키자
+# 드디어 신경망을 훈련시키자
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/train.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/check_train.png)
+
+
+# 훈련된 신경망을 시험해보자
+
+# 닭들이 담긴 시험용 동영상을 PC로 다운받자
+
+![alt text](https://github.com/joyinstech/aicamp/blob/down_prediction_video.png)
+
+# 시험용 동영상을 콜랩으로 업로드 하라
+
+![alt text](https://github.com/joyinstech/aicamp/blob/upload_chicken_video.png)
+
+# 시험용 동영상의 경로를 클립보드로 복사
+
+![alt text](https://github.com/joyinstech/aicamp/blob/copy_chicken_video_path.png)
+
+
+# 훈련된 모델의 경로를 클립보드로 복사
+
+![alt text](https://github.com/joyinstech/aicamp/blob/copy_model_path.png)
+
+# 신경망 시험 코드에 모델의 경로, 시험용동영상의 경로를 붙여 넣어라
+
+![alt text](https://github.com/joyinstech/aicamp/blob/paste_model_and_video.png)
+
+
+# 두둥,, 진실의 순간 ... 시험용동영상으로 닭을 검출해보자
+
+![alt text](https://github.com/joyinstech/aicamp/blob/prediction.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/prediction_result.png)
+
+# 시험 결과 동영상(검출된 닭에 박스를 칠해놓은것)을 다운받자
+
+![alt text](https://github.com/joyinstech/aicamp/blob/down_prediction_video.png)
+
+
+
+
+
+
+
 
