@@ -255,7 +255,7 @@
 
 
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/jit_chickens_prediction.mp4)
+![alt text](https://youtu.be/JMpAo1GysWc)
 
 
 
