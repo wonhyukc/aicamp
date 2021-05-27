@@ -106,9 +106,9 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/chick_incubator.png)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chick_incubator.jpg)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_incubator.png)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_incubator.jpg)
 
 
 # [주석작업 절차]
