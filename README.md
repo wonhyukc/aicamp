@@ -104,13 +104,14 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
 
-#그림으로 보는 신경망 훈련 절차
 
-#콜랩으로 가기
+# [신경망 훈련 절차]
+구글에서 만든 콜랩(Colab)을 활용해서 신경망 훈련시키는 과정을 화면 중심으로 프로세스를 설명하겠습니다.
+
+
+# 콜랩으로 가서 주피터노트북 열기
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/open_nb.png)
-
-
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/from_githun_to_colab.png)
 
@@ -124,19 +125,21 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/drag_n_drop.png)
 
-
-
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/dataset_upload.png)
 
 
-# 데이터셋 압축 풀기
+# 1단계 YOLO 다운로드 받기
+
+
+# 2단계 데이터셋 압축 풀기
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/unzip.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/refresh.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/check_images_labeles.png)
 
-# 데이터셋의 경로 화일을 수정하라
+
+# 데이터셋의 경로 화일을 수정하고 이름 바꾸기
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/open_coco218.png)
 
@@ -145,6 +148,8 @@
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/edit_coco128.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/change_name.png)
+
+
 
 # 드디어 신경망을 훈련시키자
 
@@ -155,13 +160,19 @@
 
 # 훈련된 신경망을 시험해보자
 
-# 닭들이 담긴 시험용 동영상을 PC로 다운받자
+
+# 검출 결과 동영상을 PC로 다운 받고 동영상 재생 해보기
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
+
+
+
 
 # 시험용 동영상을 콜랩으로 업로드 하라
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/upload_chicken_video.png)
+
+
 
 # 시험용 동영상의 경로를 클립보드로 복사
 
@@ -172,9 +183,11 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/copy_model_path.png)
 
+
 # 신경망 시험 코드에 모델의 경로, 시험용동영상의 경로를 붙여 넣어라
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/paste_model_and_video.png)
+
 
 
 # 두둥,, 진실의 순간 ... 시험용동영상으로 닭을 검출해보자
@@ -183,7 +196,8 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction_result.png)
 
-# 시험 결과 동영상(검출된 닭에 박스를 칠해놓은것)을 다운받자
+
+# 시험 결과 동영상(바운딩박스로 검출된 닭의 행동추적동영상)을 다운받자
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
 
