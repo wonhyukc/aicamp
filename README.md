@@ -60,7 +60,7 @@
 
 1. 각 조마다 colab.research.google.com 에 로그인하라
 2. 이 깃헙의 aicamp의 콜랩노트북 을 클릭하여 노트북을 열어라
-![alt text](https://github.com/joyinstech/aicamp/blob/main/from_githun_to_colab.png)
+
 4. 파일메뉴에가서 내드라이브에 사본만들기를 하라
 5. 그 사본을 열고 원본노트북은 닫아라
 6. 1단계 YOLO다운로드 버튼을 클릭
@@ -103,3 +103,6 @@
 
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
+
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/from_githun_to_colab.png)
