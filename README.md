@@ -106,21 +106,37 @@
 
 #그림으로 보는 신경망 훈련 절차
 
+#콜랩으로 가기
+
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/open_nb.png)
+
+
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/from_githun_to_colab.png)
 
+
+# 파일매니저 열기
+
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/open_file_manager.png)
+
+
+# 데이터셋 업로드
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/drag_n_drop.png)
 
+
+
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/dataset_upload.png)
 
+
+# 데이터셋 압축 풀기
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/unzip.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/refresh.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/check_images_labeles.png)
+
+# 데이터셋의 경로 화일을 수정하라
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/open_coco218.png)
 
