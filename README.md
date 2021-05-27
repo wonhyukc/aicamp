@@ -104,6 +104,8 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.jpg)
+
 
 # [신경망 훈련 절차]
 구글에서 만든 콜랩(Colab)을 활용해서 신경망 훈련시키는 과정을 화면 중심으로 프로세스를 설명하겠습니다.
