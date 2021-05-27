@@ -104,7 +104,7 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.jpg)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.png)
 
 
 # [신경망 훈련 절차]
