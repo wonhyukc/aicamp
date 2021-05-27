@@ -113,11 +113,16 @@
 
 # [주석작업 절차]
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/1000_chicken_image.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/image_separation.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/labeling.png)
+
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/anotation_file_inside.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/dataset_structure.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/1000_chicken_image.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/90-10_images.png)
 
@@ -130,7 +135,7 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/create_chicken_label.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/labeling.png)
+
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/labeling_multi_chicken.png)
 
