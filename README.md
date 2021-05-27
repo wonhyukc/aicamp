@@ -106,10 +106,14 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.png)
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chick_incubator.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_incubator.png)
+
 
 # [주석작업 절차]
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/annotation_file_inside.png)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/anotation_file_inside.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/dataset_structure.png)
 
@@ -118,6 +122,23 @@
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/90-10_images.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/makesensor_click.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/drag_n_drop_90_photos.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/click_label_list.png)
+
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/create_chicken_label.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/labeling.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/labeling_multi_chicken.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/export_annotation.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/select_yolo_format.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/download_annotation.png)
 
 # [신경망 훈련 절차]
 구글에서 만든 콜랩(Colab)을 활용해서 신경망 훈련시키는 과정을 화면 중심으로 프로세스를 설명하겠습니다.
