@@ -104,5 +104,33 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
 
+#그림으로 보는 신경망 훈련 절차
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/open_nb.png)
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/from_githun_to_colab.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/open_file_manager.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/drag_n_drop.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/dataset_upload.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/unzip.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/refresh.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/check_images_labeles.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/open_coco218.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/erase_coco128.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/edit_coco128.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/change_name.png)
+
+#드디어 신경망을 훈련시키자
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/train.png)
+
