@@ -253,7 +253,7 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
 
-
+# 닭 검출기의 성능을 확인해보자
 
 https://youtu.be/JMpAo1GysWc
 
