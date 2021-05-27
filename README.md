@@ -3,10 +3,17 @@
 
 # 주최
 
-# Joy Institute of Technology
+# Joy Institute of Technology, 
+   적정기술 연구소, 경주시, 한국
 
+함께하는 사람들
 
-   
+손문탁, JIT, 대표
+최혁, JIT
+조대연 교수 (한동대)
+서용운 교수 (포항대)
+박영자 강사 
+ 
 
 # 취지
      
