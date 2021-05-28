@@ -39,6 +39,16 @@
 
 내용: 닭사진에 주석달기->신경망훈련시키기->닭의 동영상을 신경망에 넣어 닭을 검출
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_coop_sideview.png)
+
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/ai_chicken_coop_photo_ceiling.jpg)
+
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board_r1.png)
+
 # 캠프 일정
 1일차:
 
@@ -146,15 +156,7 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
         train폴더에 90장의 주석화일
         val 폴더 밑에 10장의 주석화일을 넣어라
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_coop_sideview.png)
 
-
-![alt text](https://github.com/joyinstech/aicamp/blob/main/ai_chicken_coop_photo_ceiling.jpg)
-
-
-![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
-
-![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.png)
 
 
 
