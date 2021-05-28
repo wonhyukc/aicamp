@@ -59,6 +59,10 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/yolov5s_pt.png)
 
+# 신경망이란 무엇인가
+
+https://playground.tensorflow.org/
+
 # YOLO는 무엇인가
 
 https://www.youtube.com/watch?v=Cgxsv1riJhI
