@@ -47,6 +47,8 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
 
+# 인공지능 닭 검출기와 IoT전광판, IoT릴레이 키트
+
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board_r1.png)
 
 # 캠프 일정
