@@ -269,12 +269,15 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 # 닭장에 가서 동영상을 촬영하고 그 비디오를 신경망에 넣어보자
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/mychickens.png)
 
+https://www.youtube.com/watch?v=oBG4-dMmNts
+
+https://github.com/joyinstech/aicamp/blob/main/mychicken_short.mp4
 
 # 동영상을 콜랩에 업로드 하라
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/upload_chicken_video.png)
-
 
 
 # 동영상의 경로를 클립보드로 복사
