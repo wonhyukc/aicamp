@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=XS2UWYuh5u0
 
 https://www.youtube.com/watch?v=GRtgLlwxpc4
 
-# 나이지리아 음베일 마을의 '나지리니'는 인공지능 
+# 음베일 마을 '나지리니'의 옥수수 해충 검출기 
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/nanzirini.png)
 
