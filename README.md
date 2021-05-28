@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=XS2UWYuh5u0
 
 https://www.youtube.com/watch?v=GRtgLlwxpc4
 
-# YOLO는 나이지리아 음베일 마을의 '나지리니'에게는 소중한 적정기술이다
+# 나이지리아 음베일 마을의 '나지리니'는 인공지능 
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/nanzirini.png)
 
