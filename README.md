@@ -315,6 +315,8 @@ https://github.com/joyinstech/aicamp/blob/main/mychicken_short.mp4
 https://youtu.be/JMpAo1GysWc
 
 
+# 인공지능 닭장을 만드느라 수고했습니다
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/thanks1.png)
 
 
