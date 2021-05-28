@@ -246,7 +246,10 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 # 닭을 잘 검출 하는지 알아보라 
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction_result.png)
 
 
 # 훈련된 신경망을 닭장의 동영상으로 시험해보자
@@ -281,9 +284,8 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 # 두둥,, 진실의 순간 ... 동영상속의 닭이 잘  검출되었는가?
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction_result.png)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
 
 # 바운딩박스가 붙은 동영상을 다운받자
 
