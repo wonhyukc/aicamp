@@ -154,7 +154,7 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/mychicken_boundingbox.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.png)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/chicken_activity_board.jpg)
 
 
 
