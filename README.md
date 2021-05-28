@@ -12,11 +12,13 @@
 
 최혁, JIT
 
-조대연 교수 (한동대)
+장보길, JIT, 코디데이터
 
-서용운 교수 (포항대)
+조대연, 교수 (한동대)
 
-박영자 강사 
+서용운, 교수 (포항대)
+
+박영자, 강사 
 
 
  ![alt text](https://github.com/joyinstech/aicamp/blob/main/jit_people.png)
