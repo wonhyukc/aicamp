@@ -55,6 +55,22 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/anotation_file_inside.png)
 
+# YOLO는 무엇인가
+
+https://www.youtube.com/watch?v=Cgxsv1riJhI
+
+
+# YOLO는 무서우리만큼 빠르고 정확하게 이미지 속의 객체를 검출한다
+
+https://www.youtube.com/watch?v=XS2UWYuh5u0
+
+
+# YOLO를 사용하면 인공지능 닭장을 만들 수 있다
+
+https://www.youtube.com/watch?v=GRtgLlwxpc4
+
+
+
 # 주석달기 작업
 1. 조를 편성.
 2. 각조에 100장의 사진을 나누어준다
