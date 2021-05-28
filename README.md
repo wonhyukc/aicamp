@@ -321,6 +321,6 @@ https://youtu.be/JMpAo1GysWc
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/thanks2.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/thanks3.jpg)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/thanks3.png)
 
 
