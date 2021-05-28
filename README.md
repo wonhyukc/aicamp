@@ -55,6 +55,8 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/anotation_file_inside.png)
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/yolov5s_pt.png)
+
 # YOLO는 무엇인가
 
 https://www.youtube.com/watch?v=Cgxsv1riJhI
