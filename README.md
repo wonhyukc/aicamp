@@ -126,7 +126,7 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 5. 그 사본을 열고 원본노트북은 닫아라
 6. 1단계 YOLO다운로드 버튼을 클릭
 7. 전단계에서 만든 chicken_dataset.zip을 PC에서 콜랩으로 업로드하라 (드랙앤드롭으로)
-8. 다운로드 링크:https://drive.google.com/file/d/1d55WE2YX6b4RE3kyGFobKdq0t1kBoQAs/view?usp=sharing
+8. 
 9. 2단계 압축풀기 버튼을 클릭
 10. aicamp의 chicken.yaml을 yolov5 폴더의 data폴더에 업로드 하라(드랙앤드롭)
 11. 3단계  신경망 훈련 버튼을 클릭
