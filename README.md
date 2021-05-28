@@ -49,6 +49,8 @@
 검출시험용 동영상으로 신경망 평가: mychicken.mp4  
 
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/flow_chart_1.png)
+
 # 주석달기 작업
 1. 조를 편성.
 2. 각조에 100장의 사진을 나누어준다
