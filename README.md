@@ -293,22 +293,19 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 
 
-# 두둥,, 진실의 순간 ... 동영상속의 닭이 잘  검출되었는가?
-
-
-![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
-
-# 닭을 잘 검출 하는지 알아보라 
-
+# 두둥,, 진실의 순간 ... 검출기를 실행하라?
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction.png)
+
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction_result.png)
 
 
-# 바운딩박스가 붙은 동영상을 다운받자
+# 검출 결과가 담긴 동영상을 다운받자
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
+
+
 
 # 닭 검출기의 성능을 확인하라
 
