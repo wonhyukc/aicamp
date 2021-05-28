@@ -253,21 +253,21 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/check_train.png)
 
+#  신경망 훈련 결과를 살펴보자
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/train_result_folder.png)
 
 
-# 닭을 잘 검출 하는지 알아보라 
-
-
-![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction.png)
-
-![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction_result.png)
-
-
-# 훈련된 신경망을 닭장의 동영상으로 시험해보자
+![alt text](https://github.com/joyinstech/aicamp/blob/main/train_result.png)
 
 
 
-# 닭장에 가서 동영상을 찍어오라
+
+
+
+
+
+# 닭장에 가서 동영상을 촬영하고 그 비디오를 신경망에 넣어보자
 
 
 
@@ -297,6 +297,14 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/down_prediction_video.png)
+
+# 닭을 잘 검출 하는지 알아보라 
+
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/prediction_result.png)
+
 
 # 바운딩박스가 붙은 동영상을 다운받자
 
