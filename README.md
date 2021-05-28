@@ -64,7 +64,7 @@
 https://www.youtube.com/watch?v=Cgxsv1riJhI
 
 
-# YOLO는 무서우리만큼 빠르고 정확하게 이미지 속의 객체를 검출한다
+# YOLO는  빠르고 정확하게 이미지 속의 객체를 검출한다
 
 https://www.youtube.com/watch?v=XS2UWYuh5u0
 
