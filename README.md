@@ -51,6 +51,8 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/flowchart_1.png)
 
+![alt text](https://github.com/joyinstech/aicamp/blob/main/dataset_structure.png)
+
 # 주석달기 작업
 1. 조를 편성.
 2. 각조에 100장의 사진을 나누어준다
@@ -132,7 +134,7 @@
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/anotation_file_inside.png)
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/dataset_structure.png)
+
 
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/90-10_images.png)
