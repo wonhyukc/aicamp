@@ -200,6 +200,17 @@ http://www.sciengineer.or.kr/board_Tqqc07/24029
 
 ![alt text](https://github.com/joyinstech/aicamp/blob/main/from_githun_to_colab.png)
 
+# 노트북의 사본을 구글드라이브에 복사하기
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/copytodrive.png)
+
+# 원본 노트북 닫고 사본 노트북을 열기
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/opennotebook.png)
+
+![alt text](https://github.com/joyinstech/aicamp/blob/main/opennotebook_2ndstep.png)
+
+
 
 # 파일매니저 열기
 
