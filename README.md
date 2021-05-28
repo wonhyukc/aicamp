@@ -18,7 +18,9 @@
 
 박영자 강사 
 
- 
+
+ ![alt text](https://github.com/joyinstech/aicamp/blob/main/jit_people.png)
+
 
 # 취지
      
