@@ -20,7 +20,7 @@
 
 박영자, 강사 
 
-![alt text](https://github.com/joyinstech/aicamp/blob/main/people.jpg)
+![alt text](https://github.com/joyinstech/aicamp/blob/main/jit_people.jpg)
  
 
 
